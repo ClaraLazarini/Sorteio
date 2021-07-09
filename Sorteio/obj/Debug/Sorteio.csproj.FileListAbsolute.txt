@@ -1,0 +1,10 @@
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\bin\Debug\nunit.framework.dll
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\bin\Debug\nunit.framework.xml
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csprojAssemblyReference.cache
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.CopyComplete
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+C:\Users\claralazarini\source\repos\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
