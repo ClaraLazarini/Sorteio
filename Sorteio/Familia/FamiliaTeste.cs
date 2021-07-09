@@ -4,6 +4,9 @@ using NUnit.Framework;
 
 namespace Sorteio.Familia
 {
+    /**
+     * As classes de testes estão misturadas com as classes de produção, separar
+     */
     [TestFixture]
     public  class FamiliaTeste
     {

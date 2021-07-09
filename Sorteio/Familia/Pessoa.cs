@@ -2,6 +2,11 @@
 
 namespace Sorteio.Familia
 {
+    /**
+     * Mesma questão do encapsulamento dos sets
+     * Idade dá para ser uma property calculada
+     * ObterCalculoIdade não é um nome claro
+     */
     public class Pessoa
     {
         public Guid IdentificadoDePessoa { get; set; }

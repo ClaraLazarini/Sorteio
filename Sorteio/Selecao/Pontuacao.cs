@@ -3,6 +3,12 @@ namespace Sorteio.Selecao
 {
     public class Pontuacao
     {
+        /**
+         * Essa classe não é um bom exemplo de boas práticas com orientação a objetos
+         * Basicamente você precisa extrair os critérios em uma interface e fazer os cálculos lá
+         * para garantir o critério de que o sistema vai ser extendido com novos critérios sem precisar 
+         * alterar aqui. Sem contar no princípio de SOLID (D (DIP) -> dependency invertion principle)
+         */
         private Familia.Familia _familia;
 
         public Pontuacao(Familia.Familia familia)

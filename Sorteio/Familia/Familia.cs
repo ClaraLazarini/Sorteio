@@ -4,6 +4,11 @@ using System.Linq;
 
 namespace Sorteio.Familia
 {
+    /**
+     * Cuidar do encapsulamento, deixar os sets sem acesso público
+     * Caprichar mais no clean code, por exemplo ObterValorTotalDaRenda CalcularRendaTotal
+     * Extrair comportamento de validação se é menor de idade para Pessoa
+     */
     public class Familia
     {
         public Guid IdentificadorDeFamilia { get; set; }
